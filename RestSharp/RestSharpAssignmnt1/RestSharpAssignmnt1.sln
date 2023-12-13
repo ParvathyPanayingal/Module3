@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignmnt1", "Assignmnt1\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAss2", "RestSharpAss2\RestSharpAss2.csproj", "{24C73E41-3EF8-457E-8169-BD88636963FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAss3", "RestSharpAss3\RestSharpAss3.csproj", "{398CD010-DDEF-4CDE-BFA6-B248A1DCE1E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{24C73E41-3EF8-457E-8169-BD88636963FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C73E41-3EF8-457E-8169-BD88636963FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C73E41-3EF8-457E-8169-BD88636963FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398CD010-DDEF-4CDE-BFA6-B248A1DCE1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398CD010-DDEF-4CDE-BFA6-B248A1DCE1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398CD010-DDEF-4CDE-BFA6-B248A1DCE1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398CD010-DDEF-4CDE-BFA6-B248A1DCE1E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
