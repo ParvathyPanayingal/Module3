@@ -1,0 +1,8 @@
+2023-12-14 17:37:14.474 +05:30 [ERR]   Status code is not 200
+  Expected: Created
+  But was:  MethodNotAllowed
+
+2023-12-14 17:37:15.276 +05:30 [INF] Status code test passed
+2023-12-14 17:37:15.281 +05:30 [INF] Booking id data test passed
+2023-12-14 17:37:15.733 +05:30 [INF] Request Intitiated
+2023-12-14 17:37:15.734 +05:30 [INF] Succees Response Recieved

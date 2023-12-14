@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RestSharpAss2
-build_property.ProjectDir = D:\Module3\RestSharp\RestSharpAssignmnt1\RestSharpAss2\
+build_property.ProjectDir = C:\Users\211460\source\Git\Module3\RestSharp\RestSharpAssignmnt1\RestSharpAss2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

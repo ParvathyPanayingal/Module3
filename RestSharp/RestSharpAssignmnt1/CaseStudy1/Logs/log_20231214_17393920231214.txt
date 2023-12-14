@@ -1,0 +1,6 @@
+2023-12-14 17:39:41.414 +05:30 [INF] Request Intitiated
+2023-12-14 17:39:41.444 +05:30 [INF] Succees Response Recieved
+2023-12-14 17:39:42.840 +05:30 [INF] Status code test passed
+2023-12-14 17:39:42.842 +05:30 [INF] Booking id data test passed
+2023-12-14 17:39:44.658 +05:30 [INF] Status code test passed
+2023-12-14 17:39:44.658 +05:30 [INF] Booking id data test passed
